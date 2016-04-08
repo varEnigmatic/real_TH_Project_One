@@ -25,7 +25,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: black;
+  background: AFEEEE;
   min-height: 30px;
   padding: 10px;
   position: fixed;
@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/tracks.jpg') no-repeat top center ;
+  background: url('images/tracks.jpg') repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -74,7 +74,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
@@ -85,10 +85,10 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: #222;
-  color: yellow;
+  background-color: #e04004;
+  color: white;
 }
-.card {
+0card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -99,7 +99,7 @@ header .profile-image:hover {
   transition: all .5s;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: #565656;
 }
 
 ul.skills {
