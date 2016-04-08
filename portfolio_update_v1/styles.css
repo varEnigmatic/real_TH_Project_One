@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #ef0400;
 }
 /* Link Styles */
 
@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #ffffff;
 }
 
 /* Section Styles */
@@ -176,7 +176,7 @@ a.social:hover {
       max-width: 1200px;
       -ms-flex-pack: distribute;
       justify-content: space-around;
-      margin: 0 auto;
+      margin: 10 auto;
   }
 
   header {
